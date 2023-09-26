@@ -1,4 +1,7 @@
+# Using hand gesture to control PC volume
 
-conda create -n handGesture python=3.7 opencv
+## Installation
+- conda env create -f handGesture.yml
+- python volumeHandControl.py
 
-<img src="https://developers.google.com/static/mediapipe/images/solutions/hand-landmarks.png)" />
+<img src="https://developers.google.com/static/mediapipe/images/solutions/hand-landmarks.png" />
